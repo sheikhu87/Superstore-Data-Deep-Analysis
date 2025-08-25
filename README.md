@@ -1,6 +1,7 @@
 # Superstore-Data-Deep-Analysis
 
 #Deep data analysis of a Superstore dataset using Python involves exploring sales, profit, and customer behavior across different categories, segments, and geographies.
+
 **Key Areas for Deep Analysis**
 
 Sales and Profit trends over time
